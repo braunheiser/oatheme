@@ -681,7 +681,7 @@ m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
 ga('create', 'UA-53755606-1', 'auto');
 ga('send', 'pageview');
 
-var bgColorArray = ['//i.imgur.com/zFlCqZP.jpg','//i.imgur.com/l622wXI.jpg','//i.imgur.com/mTMoAeX.jpg','//i.imgur.com/lpFfKYs.jpg','//i.imgur.com/02154Tn.jpg','//i.imgur.com/y2tW3bM.jpg','//i.imgur.com/GNHovtU.jpg','//i.imgur.com/m101zRQ.jpg','//i.imgur.com/c4U0NJ9.jpg','//i.imgur.com/BN1Yisy.jpg','//i.imgur.com/qmjkll4.jpg','//i.imgur.com/2jSsg8N.jpg'],
+var bgColorArray = ['//i.imgur.com/7aZIVwN.jpg','//i.imgur.com/DFQ8Ywg.jpg','//i.imgur.com/umQ1Rvz.jpg','//i.imgur.com/U6P1N5m.jpg','//i.imgur.com/Ir3xIDq.jpg','//i.imgur.com/zbWyKSh.jpg','//i.imgur.com/GyNQw0X.jpg','//i.imgur.com/LqH55dt.jpg','//i.imgur.com/VL1MAIv.jpg','//i.imgur.com/I7JklHx.jpg','//i.imgur.com/RTEUJ86.jpg','//i.imgur.com/JGAQmVo.jpg'],
     selectBG = bgColorArray[Math.floor(Math.random() * bgColorArray.length)];
 $('#backg').css('background', 'url(' + selectBG + ')')
 var vplayer = videojs("ytapiplayer")

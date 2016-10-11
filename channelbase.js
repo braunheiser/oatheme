@@ -30,7 +30,7 @@ $("#userlisttoggle").text("");
 $("#controlsrow").after($("#motdrow"));//move channel description (motd) below controls
 $("#controlsrow").after($("#announcements"));//move cytube announcements below controls
 $(".container-fluid").append($("#footer"));//move footer into mainpage element
-$('#footer').children('.container').append('<p class="text-muted credit"><h4><center><br>Theme made by Bill at /r/southparkhd, slightly modified. THANKS BILL! :)</p></center></h4>');
+$('#footer').children('.container').append('<p class="text-muted credit"><h4><center><br>This is a version of BillTubes theme, from the BillTube network. His flagship channel is /r/southparkHD, check them out for more info! The framework is available from Bill on GitHub, minimally modified for here. Credits and a huge thanks to Bill and his team at BillTube Network for this incredibly sleek CyTube transformation and his spirit to share with the community! -b</p></center></h4>');
 $("#mainpage").prepend($("#chatwrap"));//move chat element outside left container
 $("#userlist").prepend("<div id='connected'></div>");//create div to contain user count
 $("#connected").append($("#usercount"));//move user count into previously created div

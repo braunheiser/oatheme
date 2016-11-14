@@ -17,12 +17,12 @@
  display:none;   
 }
 .channel-emote {
-  	min-width: 10px!important;
+  	min-width: 10px !important;
  	width: auto;
- 	max-width: 480px!important;
- 	min-height: 10px!important;
+ 	max-width: 480px !important;
+ 	min-height: 10px !important;
  	height: auto;
- 	max-height: 640px!important;
+ 	max-height: 640px !important;
 }
 body {
     font-size: 1.3em;
@@ -1580,8 +1580,8 @@ img.chat-avatar.chat-avatar_small:hover:after {
   }
 }
 .channel-emote {
-    max-width: 426px!important;
-    max-height: 426px!important;
+    max-width: 426px !important;
+    max-height: 426px !important;
     display: block;
     border-radius: 10px;
     transform: scale(1.0);
